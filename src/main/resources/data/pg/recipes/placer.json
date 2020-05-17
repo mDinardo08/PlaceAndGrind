@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ijk",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:cobblestone"
+        },
+        "j": {
+            "item": "minecraft:dropper"
+        },
+        "k": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "pg:placer_block"
+    }
+}
